@@ -1,0 +1,23 @@
+.left,
+.right {
+    display: flex;
+    flex-direction: column;
+}
+
+.cotainer {
+    display: flex;
+}
+
+* {
+    font-family: Garamond;
+    text-align: center;
+}
+
+.col8 {
+    width: 72%;
+}
+
+header {
+    background-color: #795548;
+    font-size: 170%;
+}
